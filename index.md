@@ -9,4 +9,5 @@ Apps and games for Android, made by one person.
 ## Privacy and contact
 
 - [Privacy policy](privacy-policy) for every app we publish
+- [Terms of service](terms) for every app we publish
 - Contact: jayceesoftware.studio@gmail.com
